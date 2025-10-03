@@ -2,7 +2,7 @@
 Son güncelleme: 2025-08-03
 
 Her türlü soru ve geri bildirim için bize e‑posta ile ulaşabilirsiniz:
-- E‑posta: support@listup.app
+- E‑posta: yildirim.ugur@windowslive.com
 
 Sık Karşılaşılan Konular
 - Giriş Sorunları: Apple/Google ile girişte hata alıyorsanız lütfen ekran görüntüsüyle birlikte iletin.
